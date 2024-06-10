@@ -1,0 +1,13 @@
+alt_profanity_check==1.4.2
+fastapi==0.111.0
+folium==0.15.1
+geopandas==0.14.2
+matplotlib==3.8.2
+mysql_connector_repackaged==0.3.1
+numpy==1.26.4
+pandas==2.2.2
+PyYAML==6.0.1
+PyYAML==6.0.1
+seaborn==0.13.2
+Shapely==2.0.4
+uvicorn==0.30.1
